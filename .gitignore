@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Data & Keys
+.env
+skin_features.json
+profiles.json
+user_profile.json
+user_profiles.json
+profiles/
+
+# IDEs
+.vscode/
+.idea/
+
+# Local logs
+*.log
